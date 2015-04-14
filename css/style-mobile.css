@@ -1,0 +1,27 @@
+h1 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+p.mainQtext, p.ng-binding {
+  font-size: 15px;
+
+}
+
+
+footer.ng-binding {
+  font-size: 13px;
+
+
+}
+
+blockquote.mainQuote {
+  padding: 10px;
+  border-left: 2px dashed #5EDAD5;
+  margin: 10px 10px 20px;
+}
+
+blockquote {
+  border-left: 2px dashed #5EDAD5;
+  margin: 0px 0px 0px 0px;
+}
