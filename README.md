@@ -1,5 +1,6 @@
 # WinQ
-Tiny web application where you can find quotes. Used HTML/CSS, AngularJS and ElasticSearch.
+Tiny web application where you can find quotes. 
+I used HTML/CSS, AngularJS and ElasticSearch.
 
 **ElasticSearch data example:**
 ```
